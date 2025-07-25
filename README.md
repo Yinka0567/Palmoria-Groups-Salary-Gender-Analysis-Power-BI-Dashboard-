@@ -49,8 +49,7 @@ Palmoria-Gender-Analysis/
 ### Data Summary & Insights
 This dashboard provides a comprehensive gender-based analysis of employee distribution, salary structure, performance ratings, and bonus allocation across departments and regions within Palmoria Groups.
 View interactive visuals and insights in the full dashboard screenshots provided below:
-![palmorial visualization] (https://github.com/Yinka0567/Palmoria-Groups-Salary-Gender-Analysis-Power-BI-Dashboard-/blob/1bb41047982b4b420b485779c246412159bf419b/Dashboard%20Palmoria%20Group.PNG)
-
+![Dashboard Palmoria Group.PNG](https://github.com/Yinka0567/Palmoria-Groups-Salary-Gender-Analysis-Power-BI-Dashboard-/blob/main/Dashboard%20Palmoria%20Group.PNG)
 #### Some Dax Calcuation
 ```
 Gender Count = COUNT('Employee'[Gender])
